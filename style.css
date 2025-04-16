@@ -1,0 +1,44 @@
+/* ID Selector */
+#main-header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 3px solid #333;
+  }
+  
+  /* Class Selector */
+  .content {
+    font-family: 'Verdana', sans-serif;
+    margin: 20px;
+    padding: 15px;
+    border: 2px dashed #ccc;
+    background-color: #f9f9f9;
+  }
+  
+  /* Tag Selector */
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #222;
+    color: #eee;
+  }
+  
+  .styled-img {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #4CAF50;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  
+  
+  /* Another class for custom text */
+  .footer-text {
+    font-family: 'Courier New', monospace;
+    font-size: 14px;
+  }
+  
